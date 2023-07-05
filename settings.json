@@ -1,0 +1,1 @@
+{"cloud_provider": "azure", "bucket_name": "test-bucket", "destination_folder": "download", "credentials": {"azure_connection_string": "alkdf"}}
