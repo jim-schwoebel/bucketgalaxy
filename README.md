@@ -1,6 +1,8 @@
 # bucketgalaxy
 a repo for cloud-agnostic s3 bucket manipulations (gcp, aws, and azure).
 
+can make the same for vms, databases, and the like.
+
 ## getting started
 
 Install dependencies
